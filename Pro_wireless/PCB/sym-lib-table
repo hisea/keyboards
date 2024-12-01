@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Lily58_Pro-rescue")(type "KiCad")(uri "${KIPRJMOD}/Lily58_Pro-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "niceview")(type "KiCad")(uri "${KIPRJMOD}/Lily58_Pro-footprint.pretty/nice_view.kicad_sym")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "/Users/hai/Code/kleeb/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "switch")(type "KiCad")(uri "/Users/hai/Code/kleeb/switch.kicad_sym")(options "")(descr ""))
+)
